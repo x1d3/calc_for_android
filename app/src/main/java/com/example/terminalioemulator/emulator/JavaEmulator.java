@@ -170,6 +170,7 @@ public class JavaEmulator {
                     IOEmulator.INSTANCE.println("Такое значение пока что отсутствует, попробуйте ввести еще раз");
             }
             IOEmulator.INSTANCE.print(result+"\n");
+
         }
     }
 }
